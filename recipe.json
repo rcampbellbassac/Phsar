@@ -1,0 +1,34 @@
+{
+ "name": "Phsar",
+ "slug": "Phsar",
+ "native": "ផ្សារ",
+ "version": "0.100",
+ "cat": "painted",
+ "title": "Dry brush",
+ "insp": "Permanent Marker, hand-painted market signs",
+ "bases": {
+  "lao": "lao",
+  "thai": "thai",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "recipe": [
+  {
+   "op": "wobble",
+   "amp": 5,
+   "wave": 300
+  },
+  {
+   "op": "nib",
+   "shape": "ellipse",
+   "w": 125,
+   "h": 60,
+   "angle": 25
+  },
+  {
+   "op": "rough",
+   "amp": 7,
+   "step": 12
+  }
+ ]
+}
